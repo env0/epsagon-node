@@ -1,6 +1,5 @@
 .idea/
 node_modules/
-dist/
 issues/
 src/resource_utils/sql_utils.js
 **/.DS_Store
